@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto:anas.ab_razak@kcl.ac.uk
+  icon: fas fa-envelope
+- title: LinkedIn
+  url: https://www.linkedin.com/in/anas-marwan-ab-razak
+  icon: fab fa-linkedin
+- title: GitHub
+  url: https://github.com/anasmarwan
+  icon: fab fa-github
