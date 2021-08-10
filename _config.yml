@@ -29,7 +29,7 @@ twitter_username: anasmarwan
 github_username:  anasmarwan
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hydure
 plugins:
   - jekyll-feed
 
